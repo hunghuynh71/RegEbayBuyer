@@ -1,0 +1,206 @@
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\CoreDogeTool.exe.config
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\CoreDogeTool.exe
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\CoreDogeTool.pdb
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\MailKit.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\MimeKit.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\MailKit.pdb
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\MailKit.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\MimeKit.pdb
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\MimeKit.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.Properties.Resources.resources
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.exe
+D:\GitHub\CoreDogeTool\CoreDogeTool\obj\Debug\CoreDogeTool.pdb
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\CoreDogeTool.exe.config
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\CoreDogeTool.exe
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\CoreDogeTool.pdb
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\MailKit.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\MimeKit.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\MailKit.pdb
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\MailKit.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\MimeKit.pdb
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\MimeKit.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.Properties.Resources.resources
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.exe
+D:\GitHub\DogeTool\CoreDogeTool_v2\CoreDogeTool\obj\Debug\CoreDogeTool.pdb
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\MailKit.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\MimeKit.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\MailKit.pdb
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\MailKit.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\MimeKit.pdb
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\MimeKit.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\fdoge_CMTSpammerPro.exe.config
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\fdoge_CMTSpammerPro.exe
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\bin\Debug\fdoge_CMTSpammerPro.pdb
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\fdoge_CMTSpammerPro.Properties.Resources.resources
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\fdoge_CMTSpammerPro.exe
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\fdoge_CMTSpammerPro.pdb
+D:\dogetool\DogeTool\FacebookSpammer\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\fdoge_GetCookiePro.exe.config
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\fdoge_GetCookiePro.exe
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\fdoge_GetCookiePro.pdb
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\MailKit.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\MimeKit.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\MailKit.pdb
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\MailKit.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\MimeKit.pdb
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\MimeKit.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\fdoge_GetCookiePro.Properties.Resources.resources
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\fdoge_GetCookiePro.exe
+D:\dogetool\DogeTool\FacebookGetCookie\CoreDogeTool\obj\Debug\fdoge_GetCookiePro.pdb
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\fdoge_GetCFHost.exe.config
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\fdoge_GetCFHost.exe
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\fdoge_GetCFHost.pdb
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\fdoge_GetCFHost.Properties.Resources.resources
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\fdoge_GetCFHost.exe
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\fdoge_GetCFHost.pdb
+D:\dogetool\DogeTool\FacebookGetCFHost\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\fdoge_GetCFHost.exe.config
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\fdoge_GetCFHost.exe
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\fdoge_GetCFHost.pdb
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\fdoge_GetCFHost.Properties.Resources.resources
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\fdoge_GetCFHost.exe
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\fdoge_GetCFHost.pdb
+D:\dogetool\DogeTool\FacebookGetCFHost - Pham Van Dong\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\pdoge_RegPaypal.exe.config
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\pdoge_RegPaypal.exe
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\bin\Debug\pdoge_RegPaypal.pdb
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\pdoge_RegPaypal.Properties.Resources.resources
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\pdoge_RegPaypal.exe
+D:\dogetool\DogeTool\RegPaypal\CoreDogeTool\obj\Debug\pdoge_RegPaypal.pdb
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\CoreDogeTool.csprojAssemblyReference.cache
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\CoreDogeTool.fMain.resources
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\pdoge_RegRedbubble.Properties.Resources.resources
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.GenerateResource.cache
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CoreCompileInputs.cache
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\pdoge_RegRedbubble.exe.config
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\pdoge_RegRedbubble.exe
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\pdoge_RegRedbubble.pdb
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\MailKit.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\MimeKit.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\Newtonsoft.Json.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\Otp.NET.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\RestSharp.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\System.Buffers.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\WebDriver.dll
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\BouncyCastle.Crypto.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\MailKit.pdb
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\MailKit.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\MimeKit.pdb
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\MimeKit.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\Newtonsoft.Json.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\RestSharp.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\System.Buffers.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\bin\Debug\WebDriver.xml
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\CoreDogeTool.csproj.CopyComplete
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\pdoge_RegRedbubble.exe
+D:\dogetool\DogeTool\RegRedbubble\CoreDogeTool\obj\Debug\pdoge_RegRedbubble.pdb

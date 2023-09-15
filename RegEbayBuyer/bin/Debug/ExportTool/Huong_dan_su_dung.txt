@@ -1,0 +1,24 @@
+Nếu sử dụng 911:
+-> cấu hình file path_911.txt là đường dẫn thư mục proxyTool của 911
+ Nhớ vào mục setting mở port từ 5000-5099
+Phải chạy tool quyền admin (chuột phải -> chọn run adminstrator)
+
+Nếu dùng sock5 tái sử dụng lại ip 911 -> kiểm tra ip hiện có rồi cho vào file proxy là được.
+
+
+----------
+file account cho vào data_info theo dịnh dạng mẫu:
+h2t12318@hotmail.com | DogeTool@1234| DogeTool@123|Thomas Belz|3/31/1974|0962545847|808 Stelling Ct |Saint Johns |FL |32259-8208
+
+
+-----
+Thư mục extension chưa danh sách extension muốn thêm (để dạng thư mục, nếu file zip hoặc crx thì phải giải nén ra)
+
+---
+thư mục Profile lưu các profile của account
+---
+thư mục output chứa data reg 
+
+
+
+
